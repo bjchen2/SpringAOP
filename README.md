@@ -7,7 +7,7 @@
 
 - 关于SpringAOP的代码实现
 &emsp;参考资料：<br/>
-&emsp;&emsp;https://www.imooc.com/learn/933<br/>
+&emsp;&emsp;https://www.imooc.com/learn/869<br/>
 
 - **代码写于：2018-05-19**<br/>
   &emsp;JDK：JDK1.8版本，<br/>
