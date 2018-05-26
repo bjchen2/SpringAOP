@@ -1,5 +1,5 @@
 # SpringAOP
-**探秘Spring AOP chap2代码**<br/>
+**探秘Spring AOP chap2/chap3代码**<br/>
 
 **建议先看2.7再看2.3,老师上传视频的时候顺序好像弄错了**<br/>
 **其中，cglib，chainNormal，chainPattern，jdkDynamic，pattern包是第三章（Spring AOP的实现原理）的代码，第二章学习时可忽略**<br/>
